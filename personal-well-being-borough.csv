@@ -1,0 +1,34 @@
+Name,Personal well-being scores by Borough
+ShortName,happiness and well-being
+,
+,
+,
+Theme,Health
+Sub-theme,Well-being
+,
+Title,Personal Well-being by Borough
+Description,"Personal well-being average scores by borough and region, covering life satisfaction, happiness, worthwhileness and anxiety"
+Subject,Well-being
+Subject.keyword,"anxious, worthwhile, happy, satisfied"
+Publisher,ONS
+Date.available,2011/12 - 2018/19
+Creator,GLA
+Date.created,Mar-20
+Coverage.spatial,London Borough and Regions
+Coverage.temporal,Annual
+Type,Survey
+Language,English
+Rights,Crown Copyright
+More info,https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing
+Download from,https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/headlineestimatesofpersonalwellbeing
+Warnings/Notes,The following questions were asked:
+,"Overall, how satisfied are you with your life nowadays? "
+,"Overall, to what extent do you feel the things you do in your life are worthwhile? "
+,"Overall, how happy did you feel yesterday? "
+,"Overall, how anxious did you feel yesterday? "
+,"Respondents gave a score of 0 to 10 where 0 is ""not at all"" and 10 is ""completely""."
+,Population are adults aged 16 and over
+,"Comparisons between areas must be done so with caution as these estimates are provided from a sample survey. As such, confidence intervals are produced to present the sampling variability which should be taken into account when assessing differences between areas as true differences may not exist. "
+,"x Data have been suppressed as the CV> 20% or unavailable, or the sample size is insufficient."
+,
+Next release,Unknown
